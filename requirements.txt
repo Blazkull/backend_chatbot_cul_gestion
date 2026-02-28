@@ -19,3 +19,4 @@ resend==2.7.0
 email-validator==2.2.0
 loguru==0.7.3
 supabase==2.13.0
+textblob==0.17.1
